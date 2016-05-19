@@ -1,0 +1,17 @@
+"Internal.lbl","1FGI","039-41","감열지69 (429)","","","","M2",   0.00,"",   0.00,"LM",429,0,"","C1P","CJ PLANT","R00YP46100429",0429,6000,2574,07/09/14,07/08/19,0,"","","0","","","",?,?,"","","","POR06104","429/POR06104","VF3966","Appvion  Inc","","","","","R00YP46100429039-412574","A","LM",6000,"",2574,6625.476,"MADE IN KOREA","",,"","","","","","","","","","","                                           ","                                           ","                                           ","                                           ","                                           "," ","07/09/14","AVERY DENNISON KOREA LTD.","710-2  YONGTAN-DONG ","CHUNGJU-CITY","380-250 CHOONGBUK","",0,0,"apitssc","감열지69 (429)","",no,"","","","","","","","","","",
+
+
+                                                           End of Report
+
+
+
+
+Report Criteria:                        Report Submitted By:       apitssc
+
+           Lot: R00YP4610
+           Lot: R00YP4610
+      Lab Type: 1
+ Small Package:
+ Print Request: 5
+            Output: 32prn
+

@@ -1,0 +1,16 @@
+"Internal.lbl","1WGI","1FR-N01340","WHPP80MATTC","/R736/G80","","","M2",   0.00,"",   0.00,"",1065,0,"","CB2","Chiba DC Plant","N10047626",1065,831.9999999061,886.08,01/09/13,01/09/15,6,"","","6","","","",?,?,"","","","PON10637","C112121800224","A90215","Avery Korea Ltd - Roll","","","","","N100476261FR-N01340886.08","","LM",832,"",886.08,785.1377663114,"","",,"","","","","","","","","","","                                           ","                                           ","                                           ","                                           ","                                           "," ","01/09/13","AD JAPAN MATERIALS CO.LTD.","TOMISATO DISTRIBUTION CENTER","12-1 MISAWA","TOMISATO-SHI CHIBA","",0,0,"apitssc","WHPP80MATTC","",no,"","","","","","","","","","",
+
+
+                                                           End of Report
+
+
+
+
+Report Criteria:                        Report Submitted By:       apitssc
+
+           Lot: N10047626
+           Lot: N10047626
+      Lab Type: 1
+ Small Package:
+ Print Request: 1
+            Output: local

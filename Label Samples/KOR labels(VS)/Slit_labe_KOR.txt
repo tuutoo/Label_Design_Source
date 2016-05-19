@@ -1,0 +1,17 @@
+"Slit.lbl","1FGI","039-59-R","감열지-1520(130PSP-4A)","","","","M2",   0.00,"",   0.00,"LM",1535,0,"","F2D","AY DC","R00ZE3300",0187,02000,374,07/18/14,07/17/19,0,"01274330","","0187020000","190717","L.07/21.AM.3층","SOS65705",07/17/14,?,"C15065","(주)부영월드","C15065","L.07/21.AM.3층","","","","","664469","F2DF","CS2","R00ZE3300039-59-R374","A","LM",2000,"",374,139.876,"MADE IN KOREA","L",1,"R00YI8660","","","","","","","","","","                                           ","                                           ","                                           ","                                           ","                                           "," ","07/18/14","AVERY DENNISON KOREA LTD.","60  DEOKCHEON-RO","MANAN-GU  ANYANG-CITY ","430-817 GYEONGGI-DO","",0,0,"apitssc","감열지-1520(130PSP-4A)","",no,"KimIlwhan","c","","","","","","","","",
+
+
+                                                           End of Report
+
+
+
+
+Report Criteria:                        Report Submitted By:       apitssc
+
+           Lot: R00ZE3300
+           Lot: R00ZE3300
+      Lab Type: 2
+ Small Package:
+ Print Request: 9
+            Output: 32prn
+

@@ -1,0 +1,16 @@
+"Slit.lbl","1FGI","AFU475.1000","Fasson Tyre","","","","M2",  46.20,"KG",   0.00,"M",1000,0,"","ksrolp","Roll KS Plant","K17302471",0220,01000,220,09/25/13,09/03/14,1,"017302471","BV-COC-950854","0220010001","140903","","",?,?,"","","","","","","","","8558304","DC","KF14","K17302471AFU475.1000220","A","",1000,"",220,48.4,"","",,"K17128097","","","","","","","Fasson Tyre","","","                                           ","                                           ","                                           ","                                           ","                                           "," ","09/26/13","艾利(中国)有限公司-Roll","Avery Dennison (China) Co. ","Ltd.","江苏省昆山市昆嘉路608号","",0,0,"jerryg","Fasson Tyre","",no,"","a","","","","","","","","",
+
+
+                                                           End of Report
+
+
+
+
+Report Criteria:                        Report Submitted By:       jerryg
+
+           Lot: K17302471
+           Lot: K17302471
+      Lab Type: 2
+ Small Package:
+ Print Request: 5
+            Output: local

@@ -1,0 +1,16 @@
+"Slit.lbl","1WGI","1FR-N01299","WHPP80MATTC/S692N/PET30","","","","M2",   0.00,"",   0.00,"",1065,0,"","CB2","Chiba DC Plant","N10101634",0409,00640,261.76,12/03/13,04/08/14,4,"010101634","","0409006404","140408","","",?,?,"","","","","","","","","","","","N101016341FR-N01299261.76","","LM",640,"",261.76,68.5182975476,"","",,"","","","","","","","","","","                                           ","                                           ","                                           ","                                           ","                                           "," ","12/03/13","AD JAPAN MATERIALS CO.LTD.","TOMISATO DISTRIBUTION CENTER","12-1 MISAWA","TOMISATO-SHI CHIBA","",0,0,"apitssc","WHPP80MATTC/S692N/PET30","",no,"","","","","","","","","","",
+
+
+                                                           End of Report
+
+
+
+
+Report Criteria:                        Report Submitted By:       apitssc
+
+           Lot: N10101634
+           Lot: N10101634
+      Lab Type: 2
+ Small Package:
+ Print Request: 4
+            Output: local

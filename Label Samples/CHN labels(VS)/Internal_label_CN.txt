@@ -1,0 +1,16 @@
+"Internal.lbl","1FGI","40443-.1371","2M Wh PET TC /S730","/50#SCK","","","M2",640.745,"KG",   0.00,"KG",1371,0,"","ksrolp","Roll KS Plant","K01AP5700",1371,2302.2471043034,3156.38,06/20/14,06/20/15,0,"","","0","","","",?,?,"","","","PK02E026","","A90281S","Avery Dennison Label Packag","","","","","K01AP570040443-.13713156.38","A","LM",2302,"",3156.38,9961.6703096728,"","",,"","无锡贝迪7月","","","","","","2M Wh PET TC /S730       /50#SCK","","","                                           ","                                           ","                                           ","                                           ","                                           "," ","06/21/14","艾利(中国)有限公司-Roll","Avery Dennison (China) Co. ","Ltd.","江苏省昆山市昆嘉路608号","",0,0,"jerryg","2M Wh PET TC /S730","",no,"","","","","","","","","","",
+
+
+                                                           End of Report
+
+
+
+
+Report Criteria:                        Report Submitted By:       jerryg
+
+           Lot: K01AP5700
+           Lot: K01AP5700
+      Lab Type: 1
+ Small Package:
+ Print Request: 6
+            Output: local

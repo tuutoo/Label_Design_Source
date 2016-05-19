@@ -1,0 +1,17 @@
+"Internal.lbl","1FGI","AW0153","High Gloss Paper/","S2090/BG4","0Wh Imp","","M2",25.9505,"KG",   0.00,"",1525,0,"","HCD","HCD","V029P00411525",1525,100.0999866885,152.65,10/01/14,30/11/14,1,"","","1","","","",?,?,"","","","","","","","","13976619","HCDF","S2","V029P00411525AW0153152.65","A","LM",100.0999866885,"",152.65,23.2795031543,"Made in Vietnam","",,"M06FE12801525","","","","","","","","","","                                           ","                                           ","                                           ","                                           ","                                           "," ","10/01/14","Avery Dennison (Vietnam) Ltd","Lot No. I-11  Road CN13 ","Tan Binh Industrial Park ","Son Ky Ward Tan Phu District","(84)3816-4639",0,0,"apitssc","High Gloss Paper/","",yes,"","b","","","","","","","","",
+
+
+                                                           End of Report
+
+
+
+
+Report Criteria:                        Report Submitted By:       apitssc
+
+           Lot: V029P0041
+           Lot: V029P0041
+      Lab Type: 1
+ Small Package:
+ Print Request: 4
+            Output: 32prn
+

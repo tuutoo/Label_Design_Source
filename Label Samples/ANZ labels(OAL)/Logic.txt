@@ -1,0 +1,6 @@
+PrintQ OptioANZ,
+
+OptioANZ.dcl checks content,
+
+IF "MultiLabel" calls ANZ\MultipleLabels.dcl
+IF "PalletLabel" calls ANZ\PalletLabels.dcl
